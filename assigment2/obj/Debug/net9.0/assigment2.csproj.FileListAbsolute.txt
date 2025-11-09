@@ -1,0 +1,14 @@
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\bin\Debug\net9.0\assigment2.exe
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\bin\Debug\net9.0\assigment2.deps.json
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\bin\Debug\net9.0\assigment2.runtimeconfig.json
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\bin\Debug\net9.0\assigment2.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\bin\Debug\net9.0\assigment2.pdb
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\assigment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\assigment2.AssemblyInfoInputs.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\assigment2.AssemblyInfo.cs
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\assigment2.csproj.CoreCompileInputs.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\assigment2.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\refint\assigment2.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\assigment2.pdb
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\assigment2.genruntimeconfig.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment2\obj\Debug\net9.0\ref\assigment2.dll

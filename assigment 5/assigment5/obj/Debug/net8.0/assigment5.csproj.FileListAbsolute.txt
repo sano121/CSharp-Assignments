@@ -1,0 +1,14 @@
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\bin\Debug\net8.0\assigment5.exe
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\bin\Debug\net8.0\assigment5.deps.json
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\bin\Debug\net8.0\assigment5.runtimeconfig.json
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\bin\Debug\net8.0\assigment5.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\bin\Debug\net8.0\assigment5.pdb
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\assigment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\assigment5.AssemblyInfoInputs.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\assigment5.AssemblyInfo.cs
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\assigment5.csproj.CoreCompileInputs.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\assigment5.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\refint\assigment5.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\assigment5.pdb
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\assigment5.genruntimeconfig.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\assigment 5\assigment5\obj\Debug\net8.0\ref\assigment5.dll

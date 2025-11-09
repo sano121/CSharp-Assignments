@@ -1,0 +1,14 @@
+C:\Users\arsan\OneDrive\Desktop\New folder\bin\Debug\net7.0\Assignment01.exe
+C:\Users\arsan\OneDrive\Desktop\New folder\bin\Debug\net7.0\Assignment01.deps.json
+C:\Users\arsan\OneDrive\Desktop\New folder\bin\Debug\net7.0\Assignment01.runtimeconfig.json
+C:\Users\arsan\OneDrive\Desktop\New folder\bin\Debug\net7.0\Assignment01.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\bin\Debug\net7.0\Assignment01.pdb
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\Assignment01.AssemblyInfoInputs.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\Assignment01.AssemblyInfo.cs
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\Assignment01.csproj.CoreCompileInputs.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\Assignment01.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\refint\Assignment01.dll
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\Assignment01.pdb
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\Assignment01.genruntimeconfig.cache
+C:\Users\arsan\OneDrive\Desktop\New folder\obj\Debug\net7.0\ref\Assignment01.dll
